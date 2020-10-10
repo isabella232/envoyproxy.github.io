@@ -20,7 +20,7 @@ Redis health checker :ref:`configuration overview <config_health_checkers_redis>
 config.health_checker.redis.v2.Redis
 ------------------------------------
 
-`[config.health_checker.redis.v2.Redis proto] <https://github.com/envoyproxy/envoy/blob/9732633d21a4f4ba86b60da6bb15be594b353a16/api/envoy/config/health_checker/redis/v2/redis.proto#L15>`_
+`[config.health_checker.redis.v2.Redis proto] <https://github.com/envoyproxy/envoy/blob/47f894376b1a4ff26aab0f2e02fc370f7dfce20e/api/envoy/config/health_checker/redis/v2/redis.proto#L15>`_
 
 
 .. code-block:: json

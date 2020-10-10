@@ -9,7 +9,7 @@ Ratelimit Time Unit
 Enum type.v3.RateLimitUnit
 --------------------------
 
-`[type.v3.RateLimitUnit proto] <https://github.com/envoyproxy/envoy/blob/9732633d21a4f4ba86b60da6bb15be594b353a16/api/envoy/type/v3/ratelimit_unit.proto#L14>`_
+`[type.v3.RateLimitUnit proto] <https://github.com/envoyproxy/envoy/blob/47f894376b1a4ff26aab0f2e02fc370f7dfce20e/api/envoy/type/v3/ratelimit_unit.proto#L14>`_
 
 Identifies the unit of of time for rate limit.
 
