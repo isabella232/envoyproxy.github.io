@@ -20,7 +20,7 @@ Rate limit :ref:`configuration overview <config_thrift_filters_rate_limit>`.
 config.filter.thrift.rate_limit.v2alpha1.RateLimit
 --------------------------------------------------
 
-`[config.filter.thrift.rate_limit.v2alpha1.RateLimit proto] <https://github.com/envoyproxy/envoy/blob/47f894376b1a4ff26aab0f2e02fc370f7dfce20e/api/envoy/config/filter/thrift/rate_limit/v2alpha1/rate_limit.proto#L24>`_
+`[config.filter.thrift.rate_limit.v2alpha1.RateLimit proto] <https://github.com/envoyproxy/envoy/blob/747e7e1320aada0f13d8f83a5f904f854c98fe79/api/envoy/config/filter/thrift/rate_limit/v2alpha1/rate_limit.proto#L24>`_
 
 
 .. code-block:: json

@@ -19,7 +19,7 @@ This extension may be referenced by the qualified name *envoy.resource_monitors.
 config.resource_monitor.fixed_heap.v2alpha.FixedHeapConfig
 ----------------------------------------------------------
 
-`[config.resource_monitor.fixed_heap.v2alpha.FixedHeapConfig proto] <https://github.com/envoyproxy/envoy/blob/47f894376b1a4ff26aab0f2e02fc370f7dfce20e/api/envoy/config/resource_monitor/fixed_heap/v2alpha/fixed_heap.proto#L18>`_
+`[config.resource_monitor.fixed_heap.v2alpha.FixedHeapConfig proto] <https://github.com/envoyproxy/envoy/blob/747e7e1320aada0f13d8f83a5f904f854c98fe79/api/envoy/config/resource_monitor/fixed_heap/v2alpha/fixed_heap.proto#L18>`_
 
 The fixed heap resource monitor reports the Envoy process memory pressure, computed as a
 fraction of currently reserved heap memory divided by a statically configured maximum

@@ -9,7 +9,7 @@ Rate limit service
 config.ratelimit.v3.RateLimitServiceConfig
 ------------------------------------------
 
-`[config.ratelimit.v3.RateLimitServiceConfig proto] <https://github.com/envoyproxy/envoy/blob/47f894376b1a4ff26aab0f2e02fc370f7dfce20e/api/envoy/config/ratelimit/v3/rls.proto#L19>`_
+`[config.ratelimit.v3.RateLimitServiceConfig proto] <https://github.com/envoyproxy/envoy/blob/747e7e1320aada0f13d8f83a5f904f854c98fe79/api/envoy/config/ratelimit/v3/rls.proto#L19>`_
 
 Rate limit :ref:`configuration overview <config_rate_limit_service>`.
 
